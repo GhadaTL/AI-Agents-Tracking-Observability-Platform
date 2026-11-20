@@ -1,0 +1,19 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Parquet file processing
+pyarrow
+fastparquet
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter environment
+jupyter
+ipykernel
+
+# Hugging Face dataset access
+datasets
+huggingface_hub
